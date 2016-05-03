@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-codeblock",
-  "version": "0.0.2",
-  "description": "Highlight Java code in gitbook block",
+  "version": "0.0.3",
+  "description": "Add code block in gitbook source",
   "engines": {
     "gitbook": ">=2.4.0"
   },
@@ -15,7 +15,7 @@
   "homepage": "https://github.com/kykypy3/gitbook-plugin-codeblock",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kykypy3/gitbook-plugin-codeblock.git"
+    "url": "https://github.com/KyKyPy3/gitbook-plugin-codeblock.git"
   },
   "author": "Roman Efremenko",
   "license": "MIT"
